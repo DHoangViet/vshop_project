@@ -68,10 +68,8 @@ Sample User Logins
 admin@gmail.com (Admin)
 123456
 
-duycute@gmail.com (Customer)
-123456
-
-duydeptrai@gmail.com (Customer)
+dhoangviet.con (Admin)
 123456
 ```
+
 # vshop_project
